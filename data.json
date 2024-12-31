@@ -1,0 +1,38 @@
+[
+    {
+        "isim_soyisim": "test",
+        "yas_araligi": "25-35",
+        "iliskidurumu": "Hayır",
+        "partner_sorunu": "Evet",
+        "stres_seviyesi": "Hayır",
+        "sorun_suresi": "1-6 Ay",
+        "sigara": "Hayır",
+        "alkol": "Evet",
+        "cep_telefonu": "0542 578 46 59",
+        "tarih": "2024-12-27 17:41:02"
+    },
+    {
+        "isim_soyisim": "test",
+        "yas_araligi": "25-35",
+        "iliskidurumu": "Hayır",
+        "partner_sorunu": "Evet",
+        "stres_seviyesi": "Hayır",
+        "sorun_suresi": "1-6 Ay",
+        "sigara": "Hayır",
+        "alkol": "Evet",
+        "cep_telefonu": "0542 578 46 59",
+        "tarih": "2024-12-27 17:50:08"
+    },
+    {
+        "isim_soyisim": "",
+        "yas_araligi": "45-65",
+        "iliskidurumu": "Hayır",
+        "partner_sorunu": "Evet",
+        "stres_seviyesi": "Evet",
+        "sorun_suresi": "1-6 Ay",
+        "sigara": "Hayır",
+        "alkol": "Belirtilmedi",
+        "cep_telefonu": "53696586985",
+        "tarih": "2024-12-31 20:36:26"
+    }
+]
